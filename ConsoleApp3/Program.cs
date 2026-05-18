@@ -1,3 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
-1231
+1231.
+    /false 21.
